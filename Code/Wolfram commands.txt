@@ -1,0 +1,4 @@
+data = Import["D:\\grafos3x3_B3S23.txt", "Numeric" -> True]
+Graph[data]
+
+https://www.wolfram.com/language/elementary-introduction/2nd-ed/21-graphs-and-networks.html.es
